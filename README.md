@@ -1,2 +1,14 @@
 # ebike-kit-marketing-app
-A stream lit to demonstrate how could the ebike kit made from ewaste would look like.
+
+A Streamlit app that demonstrates how an e-bike kit made from e-waste could look.
+
+## Run locally
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Start the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
